@@ -1,0 +1,1262 @@
+Unity Editor version:    6000.0.36f1 (9fe3b5f71dbb)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 15.4.1 (Build 24E263)
+Darwin version:          24.4.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-008731132" at "2025-05-11T21:08:04.431002Z"
+[Licensing::Client] Error: Code 1 while verifying Licensing Client signature (process Id: 3404, path: "/Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Frameworks/UnityLicensingClient.app/Contents/MacOS/Unity.Licensing.Client")
+[Licensing::Module] Error: LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.16.2+bdef8f5
+  Session Id:              3a82f38b9bde4bf88fda60d7e68dcecb
+  Correlation Id:          de241cd63a68bd5329e177c92c3443e8
+  External correlation Id: 5484292884402633184
+  Machine Id:              sxwaxeTq2dH7Q03M3W5PNYvo54g=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-008731132" (connect: 0.00s, validation: 0.01s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-008731132-notifications" at "2025-05-11T21:08:04.456486Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Error: Code 500 while processing request (status: Unable to update licenses. Errors: No ULF license found.,Token not found in cache)
+[Licensing::Client] Error: Code 500 while updating license in client (status: Unable to update licenses. Errors: No ULF license found.,Token not found in cache)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Serial number assigned to: "20067443360578-UnityPersXXXX"
+Pro License: NO
+[Licensing::Client] Successfully resolved entitlement details
+
+COMMAND LINE ARGUMENTS:
+/Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/MacOS/Unity
+-editor-mode
+com.unity.mppm.clone
+-no-cloud-project-bind-popup
+-noLaunchScreen
+-library-redirect
+../..
+-readonly
+-noUpm
+-upmRestorePackages
+-name
+Player 3
+-projectPath
+/Users/008731132/CSE 4410 Final Project/Library/VP/mppm95527b1a
+--virtual-project-clone
+-forgetProjectPath
+-library-redirect
+../..
+-readonly
+-DisableDirectoryMonitor
+-noUpm
+-upmRestorePackages
+-noMainWindow
+-suppressDefaultMenuEntries
+-logFile
+/Users/008731132/CSE 4410 Final Project/Library/VP/mppm95527b1a/Logs/Editor.log
+-vp-channel-name=vp-channel
+-ump-channel-service-port
+56966
+-mainProcessId=77606
+-vpId=mppm95527b1a
+-buildTarget
+StandaloneOSX
+-standaloneBuildSubtarget
+Player
+Successfully changed project path to: /Users/008731132/CSE 4410 Final Project/Library/VP/mppm95527b1a
+/Users/008731132/CSE 4410 Final Project/Library/VP/mppm95527b1a
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8784120960]  Target information:
+
+Player connection [8784120960]  * "[IP] 192.168.1.139 [Port] 55506 [Flags] 2 [Guid] 1835366534 [EditorId] 1835366534 [Version] 1048832 [Id] OSXEditor(0,LIB-LOAN-70788) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8784120960] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8784120960] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: ../../
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 60 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.navigation@2.0.5 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.ai.navigation@9f76b145f0a8)
+    com.unity.collab-proxy@2.7.1 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.collab-proxy@50ac96531b63)
+    com.unity.ide.rider@3.0.31 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.ide.rider@7921be93db40)
+    com.unity.ide.visualstudio@2.0.22 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.ide.visualstudio@8140e851d83e)
+    com.unity.inputsystem@1.12.0 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.inputsystem@920b46832575)
+    com.unity.multiplayer.playmode@1.3.3 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.multiplayer.playmode@7f4b34d911b7)
+    com.unity.netcode.gameobjects@2.3.2 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4)
+    com.unity.test-framework@1.4.5 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.test-framework@0a21eb82d95c)
+    com.unity.timeline@1.8.7 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.timeline@c58b4ee65782)
+    com.unity.visualscripting@1.9.5 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.visualscripting@1b53f46e931b)
+    com.unity.ext.nunit@2.0.5 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd)
+    com.unity.transport@2.4.0 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.transport@c6e877f31661)
+    com.unity.nuget.mono-cecil@1.11.4 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f)
+    com.unity.nuget.newtonsoft-json@3.2.1 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.nuget.newtonsoft-json@74deb55db2a0)
+    com.unity.searcher@4.9.2 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.searcher@90d011a70418)
+    com.unity.burst@1.8.18 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.burst@616862665d8c)
+    com.unity.mathematics@1.3.2 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.mathematics@8017b507cc74)
+    com.unity.collections@2.5.1 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.collections@56bff8827a7e)
+    com.unity.test-framework.performance@3.0.3 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.test-framework.performance@fb0dc592af8b)
+  Built-in packages:
+    com.unity.multiplayer.center@1.0.0 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.multiplayer.center@f502d8ac613f)
+    com.unity.render-pipelines.universal@17.0.3 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.render-pipelines.universal@a394fe607f89)
+    com.unity.ugui@2.0.0 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.ugui@24b10291b18f)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.accessibility)
+    com.unity.modules.ai@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr)
+    com.unity.modules.wind@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore)
+    com.unity.render-pipelines.core@17.0.3 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.render-pipelines.core@7bffd5bb179a)
+    com.unity.shadergraph@17.0.3 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.shadergraph@911117698220)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.render-pipelines.universal-config@fa63c96d3e1a)
+    com.unity.rendering.light-transport@1.0.1 (location: /Users/008731132/CSE 4410 Final Project/Library/PackageCache/com.unity.rendering.light-transport@307bc27a498f)
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Subsystems] No new subsystems found in resolved package list.
+Package Manager log level set to [2]
+[Package Manager] Done registering packages in 0.53 seconds
+Targeting platform: StandaloneOSX
+Refreshing native plugins compatible for Editor in 24.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.36f1 (9fe3b5f71dbb)
+[Subsystems] Discovering subsystems at path /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/008731132/CSE 4410 Final Project/Library/VP/mppm95527b1a/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M3 (high power)
+Metal devices available: 1
+0: Apple M3 (high power)
+Using device Apple M3 (high power)
+Initializing Metal device caps: Apple M3
+[Licensing::Client] Successfully resolved entitlement details
+Initialize mono
+Mono path[0] = '/Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56411
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002929 seconds.
+- Loaded All Assemblies, in  0.397 seconds
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.200 seconds
+Domain Reload Profiling: 598ms
+	BeginReloadAssembly (162ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (148ms)
+		LoadAssemblies (163ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (144ms)
+			TypeCache.Refresh (143ms)
+				TypeCache.ScanAssembly (132ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (200ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (179ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (31ms)
+			ProcessInitializeOnLoadAttributes (76ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.614 seconds
+Refreshing native plugins compatible for Editor in 2.68 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Shader 'Universal Render Pipeline/Autodesk Interactive/AutodeskInteractive': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Universal Render Pipeline/Autodesk Interactive/AutodeskInteractiveTransparent': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Universal Render Pipeline/Autodesk Interactive/AutodeskInteractiveMasked': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree8_PBRLit': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree9_URP': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/StencilDeferred': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/FallbackError': fallback shader 'Hidden/Core/FallbackError' not found
+Shader 'Universal Render Pipeline/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Unlit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Shader Graphs/Decal': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.882 seconds
+Domain Reload Profiling: 2493ms
+	BeginReloadAssembly (112ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (446ms)
+		LoadAssemblies (321ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (145ms)
+				TypeCache.ScanAssembly (125ms)
+			BuildScriptInfoCaches (32ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1883ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1415ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (644ms)
+			ProcessInitializeOnLoadMethodAttributes (671ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Asset Pipeline Refresh (id=a1416533f09fd43b1a3832af4eaf8cd2): Total: 3.300 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2653 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=645 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.001ms
+	ApplyChangesToAssetFolders: 0.195ms
+	CategorizeAssets: 153.305ms
+	ImportOutOfDateAssets: 1900.303ms (1892.942ms without children)
+		CompileScripts: 1.446ms
+		ReloadNativeAssets: 0.039ms
+		UnloadImportedAssets: 5.028ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.580ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.267ms
+	Hotreload: 1.770ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 0.101ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 6.774ms
+	Untracked: 1244.493ms
+
+Application.AssetDatabase Initial Refresh End
+Shader 'TextMeshPro/Distance Field SSD': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Scanning for USB devices : 0.041ms
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-CSE 4410 Final Project
+[MODES] Loading editor mode Multiplayer Playmode Clone (1) from command line.
+Unloading 69 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6696 unused Assets / (9.7 MB). Loaded Objects now: 7305.
+Memory consumption went from 253.4 MB to 243.7 MB.
+Total: 32.953917 ms (FindLiveObjects: 1.324333 ms CreateObjectMapping: 1.428125 ms MarkObjects: 20.492875 ms  DeleteObjects: 9.707291 ms)
+
+IsTimeToCheckForNewEditor: Update time 1746934479 current 1746997691
+[Project] Loading completed in 7.387 seconds
+	Project init time: 				6.350 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.000 seconds
+		Asset Database init time: 		0.546 seconds
+		Global illumination init time: 	0.002 seconds
+		Assemblies load time: 			0.605 seconds
+		Unity extensions init time: 	0.051 seconds
+		Asset Database refresh time: 	3.308 seconds
+	Scene opening time: 			0.881 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1746997691813,"processId":3411,"projectLoad":7.387187791000001,"projectInit":6.350216084,"templateInit":0.0,"packageManagerInit":5e-7,"assetDatabaseInit":0.545923125,"globalIlluminationInit":0.002177041,"assembliesLoad":0.605463292,"unityExtensionsInit":0.050627792,"assetDatabaseRefresh":3.307971792,"sceneOpening":0.880936417}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1746997691813,"processId":3411,"editorVersion":"6000.0.36f1 (9fe3b5f71dbb)","branch":"6000.0/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+EditorUpdateCheck: Failed Cert verify failed. Certificate has expired. UnityTls error code: 7
+Asset Pipeline Refresh (id=d648779e28736450081da570b923c69d): Total: 1.374 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1373 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.001ms
+	ApplyChangesToAssetFolders: 1.773ms
+	CategorizeAssets: 204.079ms
+	ImportOutOfDateAssets: 1.559ms (0.838ms without children)
+		ReloadNativeAssets: 0.030ms
+		UnloadImportedAssets: 0.002ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.439ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.248ms
+	Hotreload: 13.845ms
+	GatherAllCurrentPrimaryArtifactRevisions: 1.013ms
+	UnloadStreamsBegin: 7.093ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 1144.871ms
+
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 1.17 seconds
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Created GICache directory at /Users/008731132/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.030s, timestamps: [18.678 - 18.708]
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Loading style catalogs (8)
+	StyleSheets/Extensions/base/common.uss
+	UIPackageResources/StyleSheets/Default/Variables/Public/common.uss
+	StyleSheets/Northstar/common.uss
+	StyleSheets/Extensions/fonts/inter.uss
+	StyleSheets/Extensions/base/dark.uss
+	UIPackageResources/StyleSheets/Default/Northstar/Palette/dark.uss
+	Packages/com.unity.timeline/Editor/StyleSheets/Extensions/dark.uss
+	Packages/com.unity.timeline/Editor/StyleSheets/Extensions/common.uss
+2025-05-11 14:08:33.097 Unity[3411:1938722] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2025-05-11 14:08:33.143 Unity[3411:1938722] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2025-05-11 14:08:34.765 Unity[3411:1938722] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2025-05-11 14:08:34.882 Unity[3411:1938722] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2025-05-11 14:08:34.887 Unity[3411:1938722] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2025-05-11 14:08:34.887 Unity[3411:1938722] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Opening scene 'Assets/Scenes/SampleScene.unity'
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            3466.573 ms
+	Integration:            1754.993 ms
+	Integration of assets:  1676.111 ms
+	Thread Wait Time:       -1.261 ms
+	Total Operation Time:   6896.416 ms
+Unloading 6609 unused Assets / (250.1 KB). Loaded Objects now: 8531.
+Memory consumption went from 385.1 MB to 384.9 MB.
+Total: 104.261708 ms (FindLiveObjects: 10.057167 ms CreateObjectMapping: 0.712708 ms MarkObjects: 86.139833 ms  DeleteObjects: 5.861875 ms)
+
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "QAEo9sfM"... (expires: 2026-05-11T21:08:54Z)
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "QAEo9sfM"... (expires: 2026-05-11T21:08:55Z)
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+UPID Received '38de1226-95d2-44f0-8bfd-b20ddd26f616'.
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+TrimDiskCacheJob: Current cache size 0mb
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+IPCStream (hubIPCService): IPC stream failed to read (Not connected)
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Thread 0x34fc07000 may have been prematurely finalized
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+<CFData 0x397842f10 [0x20cd5c120]>{length = 6, capacity = 6, bytes = 0x9c58842594c0}
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.821 seconds
+Refreshing native plugins compatible for Editor in 4.18 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-CSE 4410 Final Project
+[MODES] Loading editor mode Multiplayer Playmode Clone (1) from command line.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.207 seconds
+Domain Reload Profiling: 3034ms
+	BeginReloadAssembly (1246ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (41ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (899ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (522ms)
+		LoadAssemblies (585ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (136ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1208ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (728ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (109ms)
+			ProcessInitializeOnLoadAttributes (440ms)
+			ProcessInitializeOnLoadMethodAttributes (163ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (187ms)
+Asset Pipeline Refresh (id=c1a70685f4a274d21b2f8a33b3d3ed0f): Total: 4.526 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2570 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=1954 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.004ms
+	ApplyChangesToAssetFolders: 0.499ms
+	CategorizeAssets: 287.662ms
+	ImportOutOfDateAssets: 1236.511ms (1219.073ms without children)
+		CompileScripts: 1.121ms
+		CollectScriptTypesHashes: 14.073ms
+		ReloadNativeAssets: 1.036ms
+		UnloadImportedAssets: 0.056ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.734ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.417ms
+	Hotreload: 5.108ms
+	GatherAllCurrentPrimaryArtifactRevisions: 8.909ms
+	UnloadStreamsBegin: 6.905ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 10.833ms
+	Untracked: 2980.647ms
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.Object:DontDestroyOnLoad (UnityEngine.Object)
+BuildDebugging.DebugConsole.DebugConsole:Awake () (at /Users/008731132/CSE 4410 Final Project/Assets/BuildDebugging/DebugConsole/DebugConsole.cs:20)
+
+[/Users/008731132/CSE 4410 Final Project/Assets/BuildDebugging/DebugConsole/DebugConsole.cs line 20]
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            214.561 ms
+	Integration:            806.374 ms
+	Integration of assets:  0.654 ms
+	Thread Wait Time:       -0.043 ms
+	Total Operation Time:   1021.546 ms
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+CmClientException: The workspace '/Users/008731132/CSE 4410 Final Project' is busy. Try later
+  at Codice.CM.WorkspaceServer.WorkspaceTreeMultiProcessLock.AcquireLock (System.Int32 maxWaitTime) [0x00079] in <feebb6ba3b8642f68cab1044548dad4c>:0 
+  at Codice.CM.WorkspaceServer.WorkspaceDataStore.GetLoadedChangesetId (Codice.CM.Common.WorkspaceInfo wkInfo, System.String wkTreeFilePath) [0x00008] in <feebb6ba3b8642f68cab1044548dad4c>:0 
+  at Codice.CM.WorkspaceServer.Tree.WorkspaceTree.InitializeLoadedChangesetId () [0x000e5] in <feebb6ba3b8642f68cab1044548dad4c>:0 
+  at Codice.CM.WorkspaceServer.Tree.WorkspaceTree.IsGameUIWorkspace () [0x00009] in <feebb6ba3b8642f68cab1044548dad4c>:0 
+  at Codice.CM.WorkspaceServer.WorkspaceTreeHandler.IsGameUIWorkspace (Codice.CM.Common.WorkspaceInfo wkInfo) [0x00007] in <feebb6ba3b8642f68cab1044548dad4c>:0 
+  at PlasticGui.PlasticAPI.PlasticGui.IPlasticAPI.IsGluonWorkspace (Codice.CM.Common.WorkspaceInfo wkInfo) [0x0000b] in <feebb6ba3b8642f68cab1044548dad4c>:0 
+  at Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace (Codice.CM.Common.WorkspaceInfo wkInfo) [0x0004f] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs:128 
+  at Unity.PlasticSCM.Editor.PlasticPlugin.Enable () [0x00043] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs:111 
+  at Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () [0x00027] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/UI/CooldownWindowDelayer.cs:62 
+  at Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () [0x0002e] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/UI/CooldownWindowDelayer.cs:73 
+  at UnityEditor.EditorApplication.Internal_CallUpdateFunctions () [0x00032] in /Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.cs:384 
+
+(Filename: ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs Line: 128)
+
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Asset Pipeline Refresh (id=1d00f13314fe047298f1a694d45ac821): Total: 0.662 seconds - Initiated by RefreshV2(ForceUpdate)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=661 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.001ms
+	ApplyChangesToAssetFolders: 1.465ms
+	CategorizeAssets: 70.990ms
+	ImportOutOfDateAssets: 1.194ms (0.354ms without children)
+		ReloadNativeAssets: 0.039ms
+		UnloadImportedAssets: 0.001ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.436ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.363ms
+	Hotreload: 2.297ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.734ms
+	UnloadStreamsBegin: 4.964ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 580.288ms
+
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Thread 0x34fbc7000 may have been prematurely finalized
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            7.308 ms
+	Integration:            640.216 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   647.536 ms
+Unloading 6610 unused Assets / (2.0 MB). Loaded Objects now: 9271.
+Memory consumption went from 0.52 GB to 0.52 GB.
+Total: 92.939459 ms (FindLiveObjects: 13.262000 ms CreateObjectMapping: 1.456666 ms MarkObjects: 67.926500 ms  DeleteObjects: 10.293375 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Thread 0x369087000 may have been prematurely finalized
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.PlasticSCM.Editor.PlasticPlugin.DisableForWorkspace () [0x00009] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs:196 
+  at Unity.PlasticSCM.Editor.PlasticPlugin.Disable () [0x00018] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs:167 
+  at Unity.PlasticSCM.Editor.PlasticPlugin.Shutdown () [0x0001e] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs:155 
+  at Unity.PlasticSCM.Editor.PlasticShutdown.Shutdown () [0x00014] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticShutdown.cs:15 
+  at Unity.PlasticSCM.Editor.PlasticApp.BeforeAssemblyReload () [0x00014] in ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticApp.cs:360 
+  at UnityEditor.AssemblyReloadEvents.OnBeforeAssemblyReload () [0x00017] in /Users/bokken/build/output/unity/unity/Editor/Mono/AssemblyReloadEvents.cs:27 
+
+(Filename: ./Library/PackageCache/com.unity.collab-proxy@50ac96531b63/Editor/PlasticPlugin.cs Line: 196)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.444 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-CSE 4410 Final Project
+[MODES] Loading editor mode Multiplayer Playmode Clone (1) from command line.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.026 seconds
+Domain Reload Profiling: 2474ms
+	BeginReloadAssembly (957ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (44ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (785ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (435ms)
+		LoadAssemblies (369ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (126ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (110ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1026ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (633ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (371ms)
+			ProcessInitializeOnLoadMethodAttributes (143ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (142ms)
+Asset Pipeline Refresh (id=f6b74b163e92c44939c73a13125c8960): Total: 2.948 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1494 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=1452 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.002ms
+	ApplyChangesToAssetFolders: 0.383ms
+	CategorizeAssets: 60.671ms
+	ImportOutOfDateAssets: 1032.388ms (1027.476ms without children)
+		CompileScripts: 0.817ms
+		CollectScriptTypesHashes: 2.701ms
+		ReloadNativeAssets: 0.765ms
+		UnloadImportedAssets: 0.051ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.412ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.165ms
+	Hotreload: 1.628ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.275ms
+	UnloadStreamsBegin: 0.054ms
+	UnloadStreamsEnd: 0.000ms
+	GenerateScriptTypeHashes: 2.619ms
+	Untracked: 1852.534ms
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.Object:DontDestroyOnLoad (UnityEngine.Object)
+BuildDebugging.DebugConsole.DebugConsole:Awake () (at /Users/008731132/CSE 4410 Final Project/Assets/BuildDebugging/DebugConsole/DebugConsole.cs:20)
+
+[/Users/008731132/CSE 4410 Final Project/Assets/BuildDebugging/DebugConsole/DebugConsole.cs line 20]
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.136 ms
+	Integration:            520.706 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.002 ms
+	Total Operation Time:   524.847 ms
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+PlayerData(Clone) migrating into DDOL!
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Unity.Netcode.NetworkSceneManager:SynchronizeNetworkObjectScene () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs:2313)
+Unity.Netcode.NetworkSceneManager:HandleClientSceneEvent (uint) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs:2391)
+Unity.Netcode.NetworkSceneManager:ClientLoadedSynchronization (uint) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs:2283)
+Unity.Netcode.NetworkSceneManager:OnClientBeginSync (uint) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs:2205)
+Unity.Netcode.NetworkSceneManager:HandleClientSceneEvent (uint) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs:2370)
+Unity.Netcode.NetworkSceneManager:HandleSceneEvent (ulong,Unity.Netcode.FastBufferReader) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs:2802)
+Unity.Netcode.SceneEventMessage:Handle (Unity.Netcode.NetworkContext&) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/SceneEventMessage.cs:29)
+Unity.Netcode.NetworkMessageManager:ReceiveMessage<Unity.Netcode.SceneEventMessage> (Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.NetworkMessageManager) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:563)
+Unity.Netcode.NetworkMessageManager:HandleMessage (Unity.Netcode.NetworkMessageHeader&,Unity.Netcode.FastBufferReader,ulong,single,int) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:422)
+Unity.Netcode.NetworkMessageManager:ProcessIncomingMessageQueue () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:448)
+Unity.Netcode.NetworkManager:NetworkUpdate (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkManager.cs:340)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:191)
+Unity.Netcode.NetworkUpdateLoop/NetworkEarlyUpdate/<>c:<CreateLoopSystem>b__0_0 () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:214)
+
+(Filename: ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/SceneManagement/NetworkSceneManager.cs Line: 2313)
+
+FOUND
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PlayerNetwork/<WaitForPlayerToSpawn>d__6:MoveNext () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerNetwork.cs:73)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerNetwork.cs Line: 73)
+
+IsOwner: True, OwnerClientId: 1, LocalClientId: 1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PlayerWeaponTierTracker:OnNetworkSpawn () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerWeaponTierTracker.cs:28)
+Unity.Netcode.NetworkBehaviour:VisibleOnNetworkSpawn () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkBehaviour.cs:763)
+Unity.Netcode.NetworkObject:InvokeBehaviourNetworkSpawn () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkObject.cs:2542)
+Unity.Netcode.NetworkSpawnManager:SpawnNetworkObjectLocallyCommon (Unity.Netcode.NetworkObject,ulong,bool,bool,ulong,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Spawning/NetworkSpawnManager.cs:1184)
+Unity.Netcode.NetworkSpawnManager:SpawnNetworkObjectLocally (Unity.Netcode.NetworkObject,Unity.Netcode.NetworkObject/SceneObject&,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Spawning/NetworkSpawnManager.cs:1107)
+Unity.Netcode.NetworkObject:AddSceneObject (Unity.Netcode.NetworkObject/SceneObject&,Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkManager,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkObject.cs:3263)
+Unity.Netcode.CreateObjectMessage:CreateObject (Unity.Netcode.NetworkManager&,ulong,uint,Unity.Netcode.NetworkObject/SceneObject,Unity.Netcode.FastBufferReader,ulong[],ulong[]) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/CreateObjectMessage.cs:215)
+Unity.Netcode.CreateObjectMessage:Handle (Unity.Netcode.NetworkContext&) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/CreateObjectMessage.cs:191)
+Unity.Netcode.NetworkMessageManager:ReceiveMessage<Unity.Netcode.CreateObjectMessage> (Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.NetworkMessageManager) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:563)
+Unity.Netcode.NetworkMessageManager:HandleMessage (Unity.Netcode.NetworkMessageHeader&,Unity.Netcode.FastBufferReader,ulong,single,int) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:422)
+Unity.Netcode.NetworkMessageManager:ProcessIncomingMessageQueue () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:448)
+Unity.Netcode.NetworkManager:NetworkUpdate (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkManager.cs:340)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:191)
+Unity.Netcode.NetworkUpdateLoop/NetworkEarlyUpdate/<>c:<CreateLoopSystem>b__0_0 () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:214)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerWeaponTierTracker.cs Line: 28)
+
+Ammo: 50/50
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WeaponStrategyPattern.WeaponBase:Initalize () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/weapons/WeaponBase.cs:33)
+WeaponStrategyPattern.WeaponTiers:SwitchWeapon (int) (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/weapons/WeaponTiers.cs:219)
+WeaponStrategyPattern.WeaponTiers:OnNetworkSpawn () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/weapons/WeaponTiers.cs:184)
+Unity.Netcode.NetworkBehaviour:VisibleOnNetworkSpawn () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkBehaviour.cs:763)
+Unity.Netcode.NetworkObject:InvokeBehaviourNetworkSpawn () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkObject.cs:2542)
+Unity.Netcode.NetworkSpawnManager:SpawnNetworkObjectLocallyCommon (Unity.Netcode.NetworkObject,ulong,bool,bool,ulong,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Spawning/NetworkSpawnManager.cs:1184)
+Unity.Netcode.NetworkSpawnManager:SpawnNetworkObjectLocally (Unity.Netcode.NetworkObject,Unity.Netcode.NetworkObject/SceneObject&,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Spawning/NetworkSpawnManager.cs:1107)
+Unity.Netcode.NetworkObject:AddSceneObject (Unity.Netcode.NetworkObject/SceneObject&,Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkManager,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkObject.cs:3263)
+Unity.Netcode.CreateObjectMessage:CreateObject (Unity.Netcode.NetworkManager&,ulong,uint,Unity.Netcode.NetworkObject/SceneObject,Unity.Netcode.FastBufferReader,ulong[],ulong[]) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/CreateObjectMessage.cs:215)
+Unity.Netcode.CreateObjectMessage:Handle (Unity.Netcode.NetworkContext&) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/CreateObjectMessage.cs:191)
+Unity.Netcode.NetworkMessageManager:ReceiveMessage<Unity.Netcode.CreateObjectMessage> (Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.NetworkMessageManager) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:563)
+Unity.Netcode.NetworkMessageManager:HandleMessage (Unity.Netcode.NetworkMessageHeader&,Unity.Netcode.FastBufferReader,ulong,single,int) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:422)
+Unity.Netcode.NetworkMessageManager:ProcessIncomingMessageQueue () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:448)
+Unity.Netcode.NetworkManager:NetworkUpdate (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkManager.cs:340)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:191)
+Unity.Netcode.NetworkUpdateLoop/NetworkEarlyUpdate/<>c:<CreateLoopSystem>b__0_0 () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:214)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/Scripts/weapons/WeaponBase.cs Line: 33)
+
+Skins (UnityEngine.Transform)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+NetworkPlayerData:OnNetworkSpawn () (at /Users/008731132/CSE 4410 Final Project/Assets/NetworkPlayerData.cs:44)
+Unity.Netcode.NetworkBehaviour:VisibleOnNetworkSpawn () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkBehaviour.cs:763)
+Unity.Netcode.NetworkObject:InvokeBehaviourNetworkSpawn () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkObject.cs:2542)
+Unity.Netcode.NetworkSpawnManager:SpawnNetworkObjectLocallyCommon (Unity.Netcode.NetworkObject,ulong,bool,bool,ulong,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Spawning/NetworkSpawnManager.cs:1184)
+Unity.Netcode.NetworkSpawnManager:SpawnNetworkObjectLocally (Unity.Netcode.NetworkObject,Unity.Netcode.NetworkObject/SceneObject&,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Spawning/NetworkSpawnManager.cs:1107)
+Unity.Netcode.NetworkObject:AddSceneObject (Unity.Netcode.NetworkObject/SceneObject&,Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkManager,bool) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkObject.cs:3263)
+Unity.Netcode.CreateObjectMessage:CreateObject (Unity.Netcode.NetworkManager&,ulong,uint,Unity.Netcode.NetworkObject/SceneObject,Unity.Netcode.FastBufferReader,ulong[],ulong[]) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/CreateObjectMessage.cs:215)
+Unity.Netcode.CreateObjectMessage:Handle (Unity.Netcode.NetworkContext&) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/Messages/CreateObjectMessage.cs:191)
+Unity.Netcode.NetworkMessageManager:ReceiveMessage<Unity.Netcode.CreateObjectMessage> (Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.NetworkMessageManager) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:563)
+Unity.Netcode.NetworkMessageManager:HandleMessage (Unity.Netcode.NetworkMessageHeader&,Unity.Netcode.FastBufferReader,ulong,single,int) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:422)
+Unity.Netcode.NetworkMessageManager:ProcessIncomingMessageQueue () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Messaging/NetworkMessageManager.cs:448)
+Unity.Netcode.NetworkManager:NetworkUpdate (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkManager.cs:340)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage (Unity.Netcode.NetworkUpdateStage) (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:191)
+Unity.Netcode.NetworkUpdateLoop/NetworkEarlyUpdate/<>c:<CreateLoopSystem>b__0_0 () (at ./Library/PackageCache/com.unity.netcode.gameobjects@91cf39ffcce4/Runtime/Core/NetworkUpdateLoop.cs:214)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/NetworkPlayerData.cs Line: 44)
+
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Launched and connected shader compiler UnityShaderCompiler after 0.11 seconds
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.10 seconds
+FOUND
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PlayerNetwork/<WaitForPlayerToSpawn>d__6:MoveNext () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerNetwork.cs:73)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerNetwork.cs Line: 73)
+
+Skins (UnityEngine.Transform)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PlayerSpawner/<WaitForPlayerToSpawn>d__5:MoveNext () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerSpawner.cs:72)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerSpawner.cs Line: 72)
+
+Launching external process: /Users/008731132/Documents/6000.0.36f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Asset Pipeline Refresh (id=bafc117e6210040eba82fb2356d079f6): Total: 0.844 seconds - Initiated by RefreshV2(ForceUpdate)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=843 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.001ms
+	ApplyChangesToAssetFolders: 1.017ms
+	CategorizeAssets: 122.010ms
+	ImportOutOfDateAssets: 1.906ms (0.427ms without children)
+		ReloadNativeAssets: 0.059ms
+		UnloadImportedAssets: 0.001ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.695ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.724ms
+	Hotreload: 3.819ms
+	GatherAllCurrentPrimaryArtifactRevisions: 1.320ms
+	UnloadStreamsBegin: 4.016ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 709.921ms
+
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+FOUND
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PlayerNetwork/<WaitForPlayerToSpawn>d__6:MoveNext () (at /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerNetwork.cs:73)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: /Users/008731132/CSE 4410 Final Project/Assets/Scripts/NetworkScripts/PlayerNetwork.cs Line: 73)
+
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Thread 0x33b987000 may have been prematurely finalized
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            9.770 ms
+	Integration:            954.934 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.000 ms
+	Total Operation Time:   964.713 ms
+Unloading 6610 unused Assets / (3.7 MB). Loaded Objects now: 9277.
+Memory consumption went from 351.9 MB to 348.3 MB.
+Total: 148.797208 ms (FindLiveObjects: 35.532792 ms CreateObjectMapping: 4.251917 ms MarkObjects: 98.099041 ms  DeleteObjects: 10.913125 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+[LAYOUT] About to save layout Library/UserSettings/Layouts/layout_0010.wlt
+Reloading assemblies due to reload request.
+Reloading assemblies after forced synchronous recompile.
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x327dc3000 may have been prematurely finalized
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  3.962 seconds
+Refreshing native plugins compatible for Editor in 1.55 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-CSE 4410 Final Project
+[MODES] Loading editor mode Multiplayer Playmode Clone (1) from command line.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.205 seconds
+Domain Reload Profiling: 5170ms
+	BeginReloadAssembly (3287ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (268ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (13ms)
+		CreateAndSetChildDomain (2328ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (622ms)
+		LoadAssemblies (588ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (141ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (118ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1206ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (848ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (192ms)
+			ProcessInitializeOnLoadAttributes (463ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (78ms)
+Asset Pipeline Refresh (id=a0da6ab27afa74bab833cb56dcc4458a): Total: 6.113 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2061 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=4050 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1376, non-scripts=2283
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.003ms
+	ApplyChangesToAssetFolders: 1.289ms
+	CategorizeAssets: 61.015ms
+	ImportOutOfDateAssets: 1213.170ms (1202.377ms without children)
+		CompileScripts: 0.770ms
+		CollectScriptTypesHashes: 8.557ms
+		ReloadNativeAssets: 0.773ms
+		UnloadImportedAssets: 0.070ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.448ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.176ms
+	Hotreload: 0.777ms
+	GatherAllCurrentPrimaryArtifactRevisions: 13.161ms
+	UnloadStreamsBegin: 0.357ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 2.642ms
+	Untracked: 4823.718ms
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
