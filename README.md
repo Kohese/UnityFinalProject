@@ -6,7 +6,7 @@ Final project for CSE 4410. This game is a multiplayer gun game using Unity's Ne
 - [Player Skins](https://assetstore.unity.com/packages/3d/characters/gamedev-essential-kit-capsule-free-edition-307339)
 - [Weapon Assets](https://assetstore.unity.com/packages/3d/props/weapons/weapons-pack-bullets-302702)
 - [Health bar](https://assetstore.unity.com/packages/tools/gui/microbar-animated-health-bar-framework-239154)
-- [UI](https://assetstore.unity.com/packages/2d/gui/dark-theme-ui-199010](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
+- [UI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
 
 # Contributions
 
